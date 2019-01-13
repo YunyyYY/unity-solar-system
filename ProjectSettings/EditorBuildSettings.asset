@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/sun_view.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/earth_view.unity
+    guid: 7eafef9f5281241f3963ab620aec314e
+  - enabled: 1
+    path: Assets/Scenes/zoom in/earth.unity
+    guid: e858842f0dcd14da19b74eb24e6347d8
+  - enabled: 1
+    path: Assets/Scenes/zoom in/Venus.unity
+    guid: d5a95b41eab6a4093bb8913fd356a391
+  - enabled: 1
+    path: Assets/Scenes/zoom in/Jupiter.unity
+    guid: c3ace3a3c8511425ca2b9301c4d4d13f
+  - enabled: 1
+    path: Assets/Scenes/zoom in/Mars.unity
+    guid: 08e8065f2682545d69bd34c440490b8d
+  - enabled: 1
+    path: Assets/Scenes/zoom in/Mercury.unity
+    guid: 38050edf2e63e485693f78051767c6c8
+  - enabled: 1
+    path: Assets/Scenes/zoom in/Neptune.unity
+    guid: 5212f37a557bb452899fec031cb0fc08
+  - enabled: 1
+    path: Assets/Scenes/zoom in/Saturn.unity
+    guid: 23816723e8c7c456ab4da5895ba3b3eb
+  - enabled: 1
+    path: Assets/Scenes/zoom in/sun.unity
+    guid: c58b1f90787f545d4afd61b37746bfb7
+  - enabled: 1
+    path: Assets/Scenes/zoom in/Uranus.unity
+    guid: 45ffc25d84af9407c8d37c6eece3c31b
+  m_configObjects: {}
